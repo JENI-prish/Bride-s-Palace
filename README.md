@@ -4,14 +4,14 @@
   <meta charset="UTF-8">
   <title>Fashion Design Webpage</title>
   <style>
-    /* Reset */
+    
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
 
-    /* Body */
+    
     body {
       font-family: 'Segoe UI', sans-serif;
       background-color: #fdfdfd;
